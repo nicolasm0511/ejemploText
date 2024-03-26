@@ -2,3 +2,5 @@ Este es el primer ejemplo
 
 
 Parrafo 1
+
+Este es el parrafo 2 soy el editor
